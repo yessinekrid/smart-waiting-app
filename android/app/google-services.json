@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875757646832",
+    "project_id": "flutteproject",
+    "storage_bucket": "flutteproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875757646832:android:abc58e67c7d8ac11cd6335",
+        "android_client_info": {
+          "package_name": "com.example.llo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyGLdOIHI-84gPo23CAKemP1Tzxz1JVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
